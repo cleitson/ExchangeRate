@@ -30,3 +30,6 @@ bin/
 
 ### env files ###
 .env
+
+ # Exceção para a pasta lib/
+ !lib/
