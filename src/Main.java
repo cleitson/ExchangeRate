@@ -1,4 +1,3 @@
-import br.com.exchangeRate.api.RequestApi;
 import br.com.exchangeRate.conversor.Converte;
 
 import java.util.Scanner;
